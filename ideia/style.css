@@ -1,0 +1,26 @@
+h4{
+    text-align: center;
+    color: #808000;
+}
+.parte{
+    padding: 5px 50px;
+    text-align: center;
+    margin-top: 100px;
+}
+input{
+    width: 200px;
+    height: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: black;
+    text-decoration: none;
+    color: #808000;
+    border-radius: 5px;
+    border-color: #808000;
+}
+input:hover{
+    background-color: #f5f5dc;
+}
+body{
+    background-color: #f5f5dc;
+}
